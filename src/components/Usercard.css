@@ -1,0 +1,22 @@
+.card{
+    transition: all 0.4s ease-in-out;
+    width: 75%;
+    background-color: #dcdf32;
+    color: #1a1d20;
+}
+
+.card:hover{
+    background-color: #22659b;
+    color: rgb(242, 226, 226);
+    cursor:pointer;
+}
+
+.row img{
+    padding-left: 65px;
+    border-radius: 20% ;
+}
+
+.box{
+    padding: 10px 10px;
+    font-size: 19px;
+}
