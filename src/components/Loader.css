@@ -1,0 +1,13 @@
+.Loader{
+    border: 10px solid #4aa3df;
+    border-top: 10pc solid white;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    animation: spin 20s linear infinite;
+    transform: translate(-10%, -10%);
+    position: absolute;
+    left: 50%;
+    top: 40%;
+
+}
